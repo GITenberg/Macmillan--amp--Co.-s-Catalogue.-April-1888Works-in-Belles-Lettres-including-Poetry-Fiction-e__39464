@@ -1,0 +1,29 @@
+_repo: Macmillan--amp--Co.-s-Catalogue.-April-1888Works-in-Belles-Lettres-including-Poetry-Fiction-e__39464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macmillan &  Co.
+    aliases:
+    - Macmillan, firm, publishers, London
+    - Macmillan and Company
+    gutenberg_agent_id: '40033'
+    url: http://www.gutenberg.org/2009/agents/40033
+description: ''
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Macmillan &  Co. -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+title: "Macmillan & Co.'s Catalogue. April 1888\r\nOf Works in Belles Lettres, Including\
+  \ Poetry, Fiction, Etc."
+url: http://www.gutenberg.org/ebooks/39464
